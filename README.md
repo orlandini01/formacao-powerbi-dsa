@@ -7,8 +7,8 @@ Hands-on labs from the Power BI training program by Data Science Academy (DSA).
 - [ ] 01. Introduction
 - [ ] 02. Getting Started with Microsoft Power BI
 - [ ] 03. Data Modeling, Relationships, and DAX 
-- [x] 04. Power BI for Marketing Data Analysis
-- [ ] 05. Power BI for Sales Data Analysis
+- [ ] 04. Power BI for Marketing Data Analysis
+- [x] 05. Power BI for Sales Data Analysis
 - [ ] 06. Power BI for HR Data Analysis
 - [ ] 07. Power BI for Logistics Data Analysis
 - [ ] 08. Power BI for Financial Data Analysis
