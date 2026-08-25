@@ -12,8 +12,8 @@ Hands-on labs from the Power BI training program by Data Science Academy (DSA).
 - [ ] 06. Power BI for HR Data Analysis
 - [ ] 07. Power BI for Logistics Data Analysis
 - [ ] 08. Power BI for Financial Data Analysis
-- [x] 09. Power BI for Accounting Data Analysis
-- [ ] 10. Power BI for Stock Market Data Analysis
+- [ ] 09. Power BI for Accounting Data Analysis
+- [x] 10. Power BI for Stock Market Data Analysis
 - [ ] 11. Fundamental Statistics for Data Science
 - [ ] 12. Data Cleaning and Wrangling with Power BI
 - [ ] 13. Data Manipulation with Power Query M Language
