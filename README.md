@@ -19,8 +19,8 @@ Hands-on labs from the Power BI training program by Data Science Academy (DSA).
 - [ ] 13. Data Manipulation with Power Query M Language
 - [ ] 14. Power BI and Databases
 - [ ] 15. SQL Analytics
-- [x] 16. Machine Learning and Power BI for Customer Segmentation
-- [ ] 17. Machine Learning and Power BI for Anomaly Detection
+- [ ] 16. Machine Learning and Power BI for Customer Segmentation
+- [x] 17. Machine Learning and Power BI for Anomaly Detection
 - [ ] 18. AI and Time Series Analysis with Power BI
 - [ ] 19. Case Study - Digital Transformation with Microsoft Power Platform
 - [ ] 20. Assessment and Completion Certificate
